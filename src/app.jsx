@@ -19,7 +19,7 @@ const app = () => {
 
   return (
     <div className='text-center'>
-      <h1 className='text-center text-7xl text-red-200'>Lal Chand Mewghwal</h1>
+      <h1 className='text-center text-7xl text-red-200'>Lal Chand </h1>
       {/* <h1 className='text-center text-7xl text-red-500'>{state}</h1> */}
 
       {/* <button onClick={()=>dispatch(addToProduct('Lal Chand meghwal'))} className='bg-green-500 mt-10 p-2 text-2xl rounded-md cursor-pointer'>On Click</button> */}
